@@ -13,7 +13,7 @@ Summary:        HAProxy reverse proxy for high availability environments
 
 License:        GPLv2+
 
-URL:            http://www.haproxy.org/
+URL:            https://www.haproxy.org/
 Source0:        %{url}download/2.3/src/haproxy-%{version}.tar.gz
 Source1:        %{name}.service
 Source2:        %{name}.cfg
